@@ -22,6 +22,6 @@ This is a mini project, in which i provide the model for sentiment analysis and 
 -	Pre-trained Glove embedding (300 dimension)
 
 ## Description 
-In this work i have done pre-processing including, stemming, stop words and punctuation removal. After that i have performed some data analysis to analysis the data, then I designed the three lSMT models with three different embedding and at the end checked the performance of each model.
+In this work i have done pre-processing including, stemming, stop words and punctuation removal. After that i have performed some data analysis to analysis the data, then I trained three **LSMT models** with three different embedding and at the end checked the performance of each model.
 
 Also I have mentioned all the comments and heading in the code for your understanding
